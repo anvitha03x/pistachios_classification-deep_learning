@@ -1,5 +1,7 @@
 # **Pistachio Classification using CNN**  
 
+Dataset: https://www.kaggle.com/datasets/muratkokludataset/pistachio-image-dataset
+
 This project uses a **Convolutional Neural Network (CNN)** to classify two types of pistachios:  
 - **Kirmizi Pistachio**  
 - **Siirt Pistachio**  
